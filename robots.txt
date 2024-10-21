@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lacenege.github.io/lacenege.txt.gz
+Sitemap: https://lacenege.github.io/app/lacenege.txt.gz
+Sitemap: https://lacenege.github.io/assets/lacenege.txt.gz
+Sitemap: https://lacenege.github.io/css/lacenege.txt.gz
+Sitemap: https://lacenege.github.io/includes/lacenege.txt.gz
+Sitemap: https://lacenege.github.io/item/lacenege.txt.gz
+Sitemap: https://lacenege.github.io/src/lacenege.txt.gz
